@@ -275,6 +275,7 @@ extern "C" {
     void asm_pe_scan();
     void asm_iat_check();
     void asm_driver_scan();
+    void asm_menu();
 }
 
 // ==================== ГЛОБАЛЬНЫЕ ОБЪЕКТЫ ====================
